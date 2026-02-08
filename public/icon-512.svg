@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Dark slate rounded square background -->
+  <rect width="512" height="512" rx="90" fill="#0D1726"/>
+
+  <!-- Fire-colored accent bar at bottom -->
+  <rect x="0" y="420" width="512" height="92" rx="0 0 90 90" fill="#F56640"/>
+
+  <!-- Bold white "MO" text centered -->
+  <text x="256" y="248" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="800" font-size="192">MO</text>
+</svg>
